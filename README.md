@@ -1,2 +1,2 @@
-# Game-On
+# Champions Arena
 CDAC final Project Repository
